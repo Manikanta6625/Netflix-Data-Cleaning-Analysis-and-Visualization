@@ -33,7 +33,7 @@ The Coffee Sales Analysis project focuses on examining vending machine coffee sa
 
 * **Python**: Pandas, NumPy, Matplotlib, Seaborn
 * **Jupyter Notebook** for exploratory data analysis & modeling
-* **Excel / Power BI / Tableau** for reporting visual dashboards
+* **Excel/Tableau** for reporting visual dashboards
 
 ## 📊 Visualizations & Analysis Performed
 
